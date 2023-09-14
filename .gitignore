@@ -3,4 +3,5 @@ archive.zip
 *.csv
 !twitter_archive_master.csv
 !twitter_archive_enhanced.csv
+!image_predictions.tsv
 *.tsv
