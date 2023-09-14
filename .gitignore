@@ -1,4 +1,5 @@
 archive.zip
 *.zip
 *.csv
+!twitter_archive_master.csv
 *.tsv
